@@ -22,5 +22,4 @@ zodiac_animals = [
 zodiac_index = (birth_year - 1900) % 12
 print("Your Chinese Zodiac Sign is:", zodiac_animals[zodiac_index])
 
-<p>A picture of the screenshot of this code</p>
 ![A picture of output of this code](zodiac.png)
